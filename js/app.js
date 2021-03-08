@@ -5,3 +5,4 @@ baguetteBox.run('.gallery', {
   captions: true,
   animation: 'fadeIn'
 });
+
